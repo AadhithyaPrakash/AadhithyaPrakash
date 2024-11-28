@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, LLM, NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AadhithyaPrakash/med_plant_id](https://github.com/AadhithyaPrakash/med_plant_id)
+- 👨‍💻 All of my projects are available at [https://github.com/AadhithyaPrakash/med_plant_id](https://github.com/AadhithyaPrakash)
 
 - 💬 Ask me about **Machine Learning, Data Analysis**
 
