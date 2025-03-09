@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadhithya Prakash</h1>
 <h3 align="center">A person loves working with data</h3>
 
-- 🔭 I’m currently working on [med_plant_id][(https://github.com/AadhithyaPrakash/med_plant_id](https://github.com/AadhithyaPrakash/MED_LEAF_ID))
+- 🔭 I’m currently working on [med_plant_id][(https://github.com/AadhithyaPrakash/MED_LEAF_ID)]
 
 - 🌱 I’m currently learning **Deep Learning, LLM, NLP**
 
